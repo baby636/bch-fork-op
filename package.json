@@ -45,7 +45,7 @@
     "@sentry/browser": "^4.2.3",
     "axios": "^0.18.0",
     "cross-env": "^5.2.0",
-    "echarts": "^4.1.0",
+    "echarts": "^5.2.1",
     "echarts-for-react": "^2.0.14",
     "flat": "^4.1.0",
     "history": "^4.7.2",
