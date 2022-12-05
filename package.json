@@ -55,7 +55,7 @@
     "mobx-react": "^5.0.0",
     "mobx-react-devtools": "^6.0.2",
     "mobx-react-router": "^4.0.4",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.4.2",
