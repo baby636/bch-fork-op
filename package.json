@@ -27,7 +27,7 @@
     "less": "^2.7.2",
     "less-loader": "^4.0.3",
     "mini-css-extract-plugin": "^0.4.3",
-    "node-sass": "^4.9.3",
+    "node-sass": "^5.0.0",
     "postcss-cssnext": "^3.1.0",
     "postcss-loader": "^3.0.0",
     "react-hot-loader": "4.3.8",
@@ -39,7 +39,7 @@
     "url-loader": "^1.1.1",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.8"
+    "webpack-dev-server": "^4.0.0"
   },
   "dependencies": {
     "@sentry/browser": "^4.2.3",
