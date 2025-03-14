@@ -57,7 +57,7 @@
     "mobx-react-router": "^4.0.4",
     "qs": "^6.5.2",
     "react": "^16.4.2",
-    "react-bootstrap": "^0.32.4",
+    "react-bootstrap": "^1.0.0",
     "react-dom": "^16.4.2",
     "react-intl": "^2.4.0",
     "react-router-dom": "^4.3.1",
