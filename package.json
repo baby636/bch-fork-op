@@ -33,7 +33,7 @@
     "react-hot-loader": "4.3.8",
     "resolve-url-loader": "^2.3.1",
     "rimraf": "^2.6.2",
-    "sass-lint": "^1.12.1",
+    "sass-lint": "^1.13.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.0",
     "url-loader": "^1.1.1",
